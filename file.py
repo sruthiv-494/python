@@ -1,0 +1,7 @@
+# import os
+# with open("text.txt","w") as f:
+#     f.write("hello")
+# with open("text.txt","r") as f:
+#     print(f.read())
+# os.remove("text.txt")
+
